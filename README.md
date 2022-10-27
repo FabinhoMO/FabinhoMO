@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fabinho 👋
 
 
-- 🔭 Formado em Economia
+- 🔭 Ciência e Economia
 - 🌱 Estudante de Back-End (Senai)
 - 😄 Pronouns: He/Him
 
