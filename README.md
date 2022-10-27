@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Fabinho 👋
 
 
-#- 🔭 Trabalho com Economia
-#- 🌱 Estudante de Back-End ...
-#- 😄 Pronouns: He/Him
+- 🔭 Formado em Economia
+- 🌱 Estudante de Back-End (Senai)
+- 😄 Pronouns: He/Him
 
 #
   <div align="center">
